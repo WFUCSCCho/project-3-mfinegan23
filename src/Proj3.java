@@ -216,10 +216,10 @@ public class Proj3 {
             sorted = true; // Assume the list is sorted until proven otherwise
 
             // Odd-index pass: compares and swaps elements at odd indices with their next element
-            comparisons++; // All comparisons that could be made in parallel are counted as a single comparison.
+            //comparisons++; // All comparisons that could be made in parallel are counted as a single comparison.
             for (int i = 1; i < size - 1; i += 2) {
                 // If the current element is greater than the next, swap them
-                //comparisons++; // This is comparisons are not made in parallel
+                comparisons++; // This is comparisons that are not made in parallel
                 if (a.get(i).compareTo(a.get(i + 1)) > 0) {
                     swap(a, i, i + 1); // Swap the elements at indices i and i + 1
                     //swaps++;
@@ -227,10 +227,10 @@ public class Proj3 {
                 }
             }
             // Even-index pass: compares and swaps elements at even indices with their next element
-            comparisons++; // All comparisons that could be made in parallel are counted as a single comparison.
+            //comparisons++; // All comparisons that could be made in parallel are counted as a single comparison.
             for (int i = 0; i < size - 1; i += 2) {
                 // If the current element is greater than the next, swap them
-                //comparisons++; // This is comparisons are not made in parallel
+                comparisons++; // This is comparisons that are not made in parallel
                 if (a.get(i).compareTo(a.get(i + 1)) > 0) {
                     swap(a, i, i + 1); // Swap the elements at indices i and i + 1
                     //swaps++;

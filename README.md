@@ -98,10 +98,14 @@ it to this repository.
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (already sorted):
 ![image](https://github.com/user-attachments/assets/76f103c8-8c02-4bec-9966-99568f2effb6)
 
+
+<img width="601" alt="Screenshot 2024-11-13 at 11 26 37 PM" src="https://github.com/user-attachments/assets/d9f36561-9921-42b3-ab0a-f620fd7ece66">
+
+
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (shuffled):
 
 
-<img width="601" alt="Screenshot 2024-11-13 at 11 26 37 PM" src="https://github.com/user-attachments/assets/d9f36561-9921-42b3-ab0a-f620fd7ece66">
+<img width="601" alt="Screenshot 2024-11-13 at 11 28 53 PM" src="https://github.com/user-attachments/assets/375ff95c-6e4a-4dc3-ae33-d47c4618d35a">
 
 
 
@@ -109,7 +113,8 @@ Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (shuffled):
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (reversed):
 
 
-<img width="601" alt="Screenshot 2024-11-13 at 11 28 53 PM" src="https://github.com/user-attachments/assets/375ff95c-6e4a-4dc3-ae33-d47c4618d35a">
+<img width="601" alt="Screenshot 2024-11-13 at 11 31 47 PM" src="https://github.com/user-attachments/assets/d81d8d67-1948-4d12-abdc-be9e98053c7b">
+
 
 
 
